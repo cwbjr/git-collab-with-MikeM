@@ -10,6 +10,6 @@ push to that branch, make a pull request, other person completes the merge
 
 3. Mike has task 3 - You should create a new HTML file. Link to it from index.html
 
-4. Charlie has task 4 -
+4. Charlie has task 4 - You should edit an HTML file. Add a paragraph about something you like.
 
-5. Mike has task 5 -
+5. Mike has task 5 - You should create a new directory. Move at least one file into that directory.
