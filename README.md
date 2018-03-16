@@ -4,11 +4,11 @@ push to that branch, make a pull request, other person completes the merge
 
 ---
 
-1. Mike has task 1 -
+1. Mike has task 1 - You should create an array of objects. Each object should have a name and age.
 
 2. Charlie has task 2 -
 
-3. Mike has task 3 - 
+3. Mike has task 3 -
 
 4. Charlie has task 4 -
 
